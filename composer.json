@@ -1,7 +1,7 @@
 {
      "require" : {
-        "composer update (+ git add, + git commit)",
-        "composer self-update",
+        "composer update (+ git add, + git commit)"
+        "composer self-update"
   },
         
     "require-dev": {
