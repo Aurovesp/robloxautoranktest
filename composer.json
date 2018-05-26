@@ -1,9 +1,5 @@
 {
-     "require" : {
-        "composer update (+ git add, + git commit)"
-        "composer self-update"
-  },
-        
+  
     "require-dev": {
       "heroku/heroku-buildpack-php": "*"
         
