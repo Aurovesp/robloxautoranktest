@@ -1,4 +1,0 @@
-"require" : {
-        "composer update (+ git add, + git commit)"
-        "composer self-update"
-  },
